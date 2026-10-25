@@ -3,3 +3,9 @@
 .wrangler/
 node_modules/
 *.xcuserstate
+
+# 상용 SDK (Kollus / PallyCon) — 재배포 금지, 각자 발급받아 이 위치에 넣기
+YoutubeClone/YoutubeClone/Frameworks/
+
+# Xcode 개인 설정
+xcuserdata/
